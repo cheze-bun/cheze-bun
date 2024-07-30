@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the operating system i am making
 - 📫 How to reach me at @chezebun67@gmail.com
 - 😄 Pronouns: me/him
-- ⚡ Fun fact: i am trying to make my own tech company like apple, google and microsoft and gain experiance with tech and see what i con do with messing about with it XD
+- ⚡ Fun fact: i am trying to make my own tech company like apple, google and microsoft and gain experiance with tech and see what i can do with messing about with it XD
 
 <!---
 cheze-bun/cheze-bun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
